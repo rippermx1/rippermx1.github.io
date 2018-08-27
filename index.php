@@ -92,7 +92,7 @@
 							<div class="col-sm-8">
 								<div class="info-profile">
 									<h2><span>HOLA, SOY</span> CARLOS VALDÉS</h2>
-									<h3>Desarrollador Full-Stack</h3>
+									<h3>Desarrollador Fullstack</h3>
 									<p>
 										Profesional apasionado por el aprendizaje continuo de nuevas tecnologías, 
 										responsable, comprometido y proactivo con los nuevos desafios tecnologicos 
