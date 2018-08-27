@@ -76,7 +76,7 @@
 						<div class="row">
 							<div class="col-sm-4">
 								<div class="photo-profile">
-									<img src="http://placehold.it/281x293" alt="Robert Smith">
+									<img src="images/front.jpg" alt="Robert Smith">
 								</div>
 								<a href="cv/cv.pdf" target="cv">
 									<div class="download-resume">
@@ -94,11 +94,14 @@
 									<h2><span>HOLA, SOY</span> CARLOS VALDÉS</h2>
 									<h3>Desarrollador Full-Stack</h3>
 									<p>
-										Hola, Soy Carlos Valdés. Desarrollador Full-Stack junior con casi 2 años de experiencia 
-										en desarrollo de proyectos con metodologías ágiles Scrum y XP.
-										Con conocimientos avanzados en diversos lenguajes de programación
-										incluyendo Java, C#, PHP, JavaScript y frameworks como Jquery, Angular 2 y 4, Spring, CodeIgniter, Laravel.
-										Manejo de bases de datos MySql y SqlServer.
+										Profesional apasionado por el aprendizaje continuo de nuevas tecnologías, 
+										responsable, comprometido y proactivo con los nuevos desafios tecnologicos 
+										que proporcione un nuevo proyecto. 
+										Estructurado y partidario del uso de metodologías ágiles (Scrum o XP) 
+										como base para el desarrollo de un producto de calidad y escalable.
+										Amante de la programación orientada a objetos y a su uso en arquitetura de software.
+										Programador políglota capaz de adaptarme rapido a nuevos lenguajes de programación.
+										Con aproximadamente 2 años de experiencia.
 									</p>
 									<div class="row">
 										<div class="col-sm-6">
@@ -122,11 +125,7 @@
 												<li class="li-info">
 													<span class="title-info">Teléfono</span>
 													<span class="info">+569 43425842</span>
-												</li>
-												<li class="li-info">
-													<span class="title-info">Website</span>
-													<span class="info">www.cavadev.com</span>
-												</li>
+												</li>												
 												<li class="li-info">
 													<span class="title-info">Nacionalidad</span>
 													<span class="info">Chileno</span>
@@ -138,12 +137,6 @@
 											<ul class="ul-social-links">
 												<li class="li-social-links">
 													<a href="#" data-tootik="Facebook" data-tootik-conf="square"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-												</li>
-												<li class="li-social-links">
-													<a href="#" data-tootik="Twitter" data-tootik-conf="square"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-												</li>
-												<li class="li-social-links">
-													<a href="#" data-tootik="Google Plus" data-tootik-conf="square"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
 												</li>
 												<li class="li-social-links">
 													<a href="#" data-tootik="Linkedin" data-tootik-conf="square"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
@@ -170,6 +163,18 @@
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
+										<span class="skill-name">NodeJS</span>
+										<span class="skill-value">70%</span>
+									</div>
+									<div class="progress">
+									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+									    </div>
+									</div>
+								</div>
+								<!-- / single skill -->
+								<!-- single skill -->
+								<div class="skill">
+									<div class="title-progress">
 										<span class="skill-name">AWS</span>
 										<span class="skill-value">65%</span>
 									</div>
@@ -182,8 +187,8 @@
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
-										<span class="skill-name">PHP</span>
-										<span class="skill-value">85%</span>
+										<span class="skill-name">Ruby On Rails</span>
+										<span class="skill-value">70%</span>
 									</div>
 									<div class="progress">
 									 	<div class="progress-bar progress3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
@@ -194,7 +199,7 @@
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
-										<span class="skill-name">Java</span>
+										<span class="skill-name">Laravel 5.6</span>
 										<span class="skill-value">75%</span>
 									</div>
 									<div class="progress">
@@ -206,11 +211,11 @@
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
-										<span class="skill-name">C#</span>
-										<span class="skill-value">75%</span>
+										<span class="skill-name">Angular 2, 4, 5</span>
+										<span class="skill-value">70%</span>
 									</div>
 									<div class="progress">
-									 	<div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
 									    </div>
 									</div>
 								</div>
@@ -251,42 +256,7 @@
 									</div>
 								</div>
 								<!-- / single skill -->
-								<!-- single skill -->
-								<div class="skill">
-									<div class="title-progress">
-										<span class="skill-name">NodeJS</span>
-										<span class="skill-value">70%</span>
-									</div>
-									<div class="progress">
-									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-									    </div>
-									</div>
-								</div>
-								<!-- / single skill -->
-								<!-- single skill -->
-								<div class="skill">
-									<div class="title-progress">
-										<span class="skill-name">Angular 2, 4, 5</span>
-										<span class="skill-value">70%</span>
-									</div>
-									<div class="progress">
-									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-									    </div>
-									</div>
-								</div>
-								<!-- / single skill -->
-								<!-- single skill -->
-								<div class="skill">
-									<div class="title-progress">
-										<span class="skill-name">Laravel</span>
-										<span class="skill-value">70%</span>
-									</div>
-									<div class="progress">
-									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-									    </div>
-									</div>
-								</div>
-								<!-- / single skill -->
+								
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
@@ -302,31 +272,7 @@
 								<!-- single skill -->
 								<div class="skill">
 									<div class="title-progress">
-										<span class="skill-name">Spring Framework</span>
-										<span class="skill-value">70%</span>
-									</div>
-									<div class="progress">
-									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-									    </div>
-									</div>
-								</div>
-								<!-- / single skill -->
-								<!-- single skill -->
-								<div class="skill">
-									<div class="title-progress">
-										<span class="skill-name">MVC 4</span>
-										<span class="skill-value">70%</span>
-									</div>
-									<div class="progress">
-									 	<div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-									    </div>
-									</div>
-								</div>
-								<!-- / single skill -->
-								<!-- single skill -->
-								<div class="skill">
-									<div class="title-progress">
-										<span class="skill-name">ASP.NET</span>
+										<span class="skill-name">Postgresql</span>
 										<span class="skill-value">70%</span>
 									</div>
 									<div class="progress">
@@ -360,9 +306,9 @@
 										<div class="col-sm-4">
 											<div class="circle">
 												<div class="chart-percentage">
-													<span>90%</span>
+													<span>80%</span>
 												</div>
-												<div class="chart" data-percent="90">
+												<div class="chart" data-percent="80">
 													<!-- canvas -->
 												</div>
 												<div class="name-circle">
@@ -390,9 +336,9 @@
 										<div class="col-sm-4">
 											<div class="circle">
 												<div class="chart-percentage">
-													<span>65%</span>
+													<span>70%</span>
 												</div>
-												<div class="chart" data-percent="65">
+												<div class="chart" data-percent="70">
 													<!-- canvas -->
 												</div>
 												<div class="name-circle">
@@ -405,9 +351,9 @@
 										<div class="col-sm-4">
 											<div class="circle">
 												<div class="chart-percentage">
-													<span>65%</span>
+													<span>90%</span>
 												</div>
-												<div class="chart" data-percent="65">
+												<div class="chart" data-percent="90">
 													<!-- canvas -->
 												</div>
 												<div class="name-circle">
@@ -420,9 +366,9 @@
 										<div class="col-sm-4">
 											<div class="circle">
 												<div class="chart-percentage">
-													<span>65%</span>
+													<span>75%</span>
 												</div>
-												<div class="chart" data-percent="65">
+												<div class="chart" data-percent="75">
 													<!-- canvas -->
 												</div>
 												<div class="name-circle">
@@ -435,9 +381,9 @@
 										<div class="col-sm-4">
 											<div class="circle">
 												<div class="chart-percentage">
-													<span>65%</span>
+													<span>50%</span>
 												</div>
-												<div class="chart" data-percent="65">
+												<div class="chart" data-percent="50">
 													<!-- canvas -->
 												</div>
 												<div class="name-circle">
@@ -446,54 +392,6 @@
 											</div>
 										</div>
 										<!-- / single circle skill -->
-									</div>
-								</div>
-								<div class="other-skills">
-									<div class="row">
-										<div class="col-sm-6">
-											<div class="other">
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>Photography</span>
-												</div>
-												<!-- / single other skill -->
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>Mobile App Design</span>
-												</div>
-												<!-- / single other skill -->
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>Logo Design</span>
-												</div>
-												<!-- / single other skill -->
-											</div>
-										</div>
-										<div class="col-sm-6">
-											<div class="other">
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>3D Animation</span>
-												</div>
-												<!-- / single other skill -->
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>Audio Video Editing</span>
-												</div>
-												<!-- / single other skill -->
-												<!-- single other skill -->
-												<div class="skill">
-													<i class="fa fa-check-square-o" aria-hidden="true"></i>
-													<span>UX and UI Design</span>
-												</div>
-												<!-- / single other skill -->
-											</div>
-										</div>
 									</div>
 								</div>
 							</div>
@@ -526,7 +424,11 @@
 						            	</div>
 				            		</li>
 				            	</ul>
-				            	<p class="prg-education">Completé la carrera en esta conocida insitución. Aprove de forma completa todos los ramos sin reprovar ninguno y obtuve mensión por mérito académico.</p>
+				            	<p class="prg-education">Con mensión por rendimiento académico, 
+									egresé de la carrera a tiempo con todos los ramos aprobados. 
+									Esta institución me entregó las bases para convertirme en desarrollador fullstack, 
+									siendo mi principal vocación el desarrollo de aplicaciones multiplataforma, 
+									con una fuerte tendencia al IOT y al uso de metodologías como bases para el desarrollo y puesta en marcha de un producto de calidad y escalable.</p>
 				            </div>
 						</div>
 						<!-- / single education -->
@@ -570,9 +472,14 @@
 								<!-- single experience -->
 								<div class="experience-content">
 									<span class="period-experience">Ago 2017 - A la Fecha</span>
-									<h3 class="specialty-name">Backend Developer</h3>
+									<h3 class="specialty-name">Full-Stack Developer</h3>
 									<h3 class="company-name">Simple Móviles SPA.</h3>
-									<p class="prg-experience">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In semper lacus tortor, quis bibendum odio mattis vitae. Cras porta massa pretium auctor congue. Suspendisse ante massa, euismod sit amet sem sed, viverra tristique diam.</p>
+									<p class="prg-experience">
+										Operador movil virtual de prestigio nacional con amplio crecimiento en el campo
+										y aceptación por parte del público; donde he sido parte del desarrollo del nuevo portal web
+										que sigue el uso por tendencia de nuevas tecnologías web (Angular 5, Nodejs, Laravel 5.6)
+										y la optmizacion de procesos internos (CodeIgniter, MySql, AWS). 
+									</p>
 								</div>
 								<!-- / single experience -->
 								<!-- single experience -->
@@ -580,17 +487,14 @@
 									<span class="period-experience">Abr 2017 - Ago 2017</span>
 									<h3 class="specialty-name">Game Developer</h3>
 									<h3 class="company-name">Cettic Ltda.</h3>
-									<p class="prg-experience">Curabitur eleifend purus eu efficitur feugiat. Fusce quis libero sit amet urna mattis semper. Fusce ornare tristique scelerisque. Nunc ac cursus nibh. Maecenas lobortis nulla a nunc molestie, at volutpat sapien congue. Sed vehicula nec libero vel blandit. Praesent scelerisque sodales porttitor.</p>
+									<p class="prg-experience">
+										Empresa orientada al desarrollo de simuladores de realidad virtual para entrenamiento de personal.
+										Donde participe en el desarrollo de MadeForYou (Simulador para entrenamiento de personal de McDonalds)
+										bajo la API que proporciona el motor de desarrollo de videojuegos Unity 5, utilizando como lenguaje 
+										base de scripts C#.
+									</p>
 								</div>
 								<!-- / single experience -->
-								<!-- single experience -->
-								<div class="experience-content">
-									<span class="period-experience">Mar 2016 - Abr 2017</span>
-									<h3 class="specialty-name">Developer</h3>
-									<h3 class="company-name">Independiente</h3>
-									<p class="prg-experience">Quisque convallis justo tellus, ut consequat ante sagittis sed. Suspendisse tincidunt, justo sed dignissim viverra, lacus sem blandit nunc, ac molestie metus turpis mattis erat. Curabitur ac malesuada mauris, id gravida nisi.</p>
-								</div>
-								<!-- / single experience -->								
 							</div>
 						</div>
 					</div>
@@ -1026,22 +930,14 @@
 								<div class="telephone">
 									<span class="info-icon"><i class="fa fa-phone"></i></span>
 									<span class="info-text">+569 43425842</span>
-								</div>
-								<div class="website">
-									<span class="info-icon"><i class="fa fa-link"></i></span>
-									<span class="info-text">www.cavadev.com</span>
-								</div>
+								</div>								
 							</div>
 						</div>
 					</div>
 					<div class="social-links">
 						<ul>
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-							<li><a href="#"><i class="fa fa-behance"></i></a></li>
 						</ul>
 					</div>
 				</section>
