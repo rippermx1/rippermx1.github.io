@@ -92,7 +92,7 @@
 							<div class="col-sm-8">
 								<div class="info-profile">
 									<h2><span>HOLA, SOY</span> CARLOS VALDÉS</h2>
-									<h3>Desarrollador Full-tack</h3>
+									<h3>Desarrollador Full-Stack</h3>
 									<p>
 										Profesional apasionado por el aprendizaje continuo de nuevas tecnologías, 
 										responsable, comprometido y proactivo con los nuevos desafios tecnologicos 
@@ -426,7 +426,7 @@
 				            	</ul>
 				            	<p class="prg-education">Con mensión por rendimiento académico, 
 									egresé de la carrera a tiempo con todos los ramos aprobados. 
-									Esta institución me entregó las bases para convertirme en desarrollador fullstack, 
+									Esta institución me entregó las bases para convertirme en desarrollador full-stack, 
 									siendo mi principal vocación el desarrollo de aplicaciones multiplataforma, 
 									con una fuerte tendencia al IOT y al uso de metodologías como bases para el desarrollo y puesta en marcha de un producto de calidad y escalable.</p>
 				            </div>
